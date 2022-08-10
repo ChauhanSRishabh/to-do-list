@@ -1,0 +1,2 @@
+Hi !
+This is a static file that displays it's content(if .txt) or gets downloaded(if it's in a downloadable format, eg : .exe) if we mention it's path on the URL(<localhost>/static/<filename>)
